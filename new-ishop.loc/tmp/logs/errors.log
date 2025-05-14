@@ -1,0 +1,20 @@
+[2021-11-07 11:34:43] Текст ошибки: Undefined variable $test | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
+=================
+[2021-11-07 11:35:31] Текст ошибки: Undefined variable $test | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 13
+=================
+[2021-11-07 11:35:49] Текст ошибки: Возникла ошибочка! | Файл: D:\Server538\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+=================
+[2025-05-14 13:02:54] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 46
+=================
+[2025-05-14 13:10:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+=================
+[2025-05-14 13:10:16] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 57
+=================
+[2025-05-14 13:10:51] Текст ошибки: Метод app\controllers\PageController::contactAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 50
+=================
+[2025-05-14 13:10:52] Текст ошибки: Метод app\controllers\PageController::contactAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 50
+=================
+[2025-05-14 13:10:53] Текст ошибки: Метод app\controllers\PageController::contactAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 50
+=================
+[2025-05-14 13:10:53] Текст ошибки: Метод app\controllers\PageController::contactAction не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 50
+=================
